@@ -1,2 +1,2 @@
-# fe-book
-前端的各类问题总结到issue中
+# blog
+的各类问题,文档总结到issue中
